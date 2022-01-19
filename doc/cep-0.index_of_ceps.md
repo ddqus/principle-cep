@@ -6,4 +6,5 @@
 * [CEP 4](cep-4.always_use_interface.md), Draft, 항상 인터페이스를 사용하세요
 * [CEP 5](cep-5.use_primary_constructor_only_one.md), Draft, 생성자 하나를 주 생성자로 만드세요
 * [CEP 6](cep-6.dont_use_public_constant.md), Draft, CEP 6 - 퍼블릭 상수(Public Constant)를 사용하지 마세요
-
+* [CEP 7](cep-7.dont_allow_null_argument.md), Draft, CEP 7 - 인자의 값으로 NULL을 절대 혀용하지 마세요
+* 
