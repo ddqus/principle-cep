@@ -2,4 +2,5 @@
 
 * [CEP 1](cep-1.number_of_method.md), Draft, 클래스의 메서드 갯수는 5개 이하여야 한다
 * [CEP 2](cep-2.make_class_immutable.md), Draft, 클래스는 불변(immutable) 객체로 만드세요
+* [CEP 3](cep-3.dont_use_getter_setter.md), Draft, 절대 getter와 setter 를 사용하지 마세요
 
